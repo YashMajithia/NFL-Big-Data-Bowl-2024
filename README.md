@@ -13,7 +13,7 @@ This project analyzes **NFL player and game data** for the **Big Data Bowl 2024*
 ---
 
 ## 📊 Dataset  
-- **Source:** NFL Big Data Bowl 2024 dataset  
+- **Source:** NFL Big Data Bowl 2022 dataset  
 - **Columns:** Player ID, Position, Speed, Acceleration, Play Type, Game Stats, etc.  
 
 ---
